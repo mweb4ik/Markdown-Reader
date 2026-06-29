@@ -29,7 +29,7 @@ in Visual Studio / VS Code / Rider if you prefer.
    The first `dotnet restore` will download the two required libraries
    (Markdig for Markdown parsing, WebView2 for rendering) automatically.
 
-3. The app window will open. Click **"📂 Open Markdown File"** and pick a `.md`
+3. The app window will open. Click **" Open Markdown File"** and pick a `.md`
    file, or just drag and drop a `.md` file onto the window.
 
    A `sample.md` file is included in this folder if you want to try it
