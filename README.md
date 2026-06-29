@@ -12,10 +12,9 @@ with clean, comfortable, book-like formatting.
    Microsoft Edge). If for some reason it's missing, get it from:
    https://developer.microsoft.com/microsoft-edge/webview2/
 
-That's it — no Visual Studio required, though you're welcome to open the project
-in Visual Studio / VS Code / Rider if you prefer.
 
-## How to run it
+
+## How to run 
 
 1. Open a terminal (PowerShell or cmd) in this folder (the one containing
    `MarkdownReader.csproj`).
